@@ -1,0 +1,206 @@
+State,Digital Access,Uplink Tone,County,Input Freq,Output Freq,Modes,Location,Downlink Tone,Call,Offset
+Missouri,,127.3,Morgan,147.99000,147.390000,FM ,Stover,,KB0QWQ,+
+Missouri,,,St Louis City,147.99000,147.390000,FM ,Saint Louis - Mercy Hospital,,W0SLW,+
+Missouri,,146.2,Caldwell,147.99000,147.390000,FM Fusion WIRES-X ,Hamilton - Old Town Water Tower,146.2,KB0ALL,+
+Missouri,,110.9,Ozark,147.99000,147.390000,FM Fusion ,Gainesville,110.9,WB0JJJ,+
+Missouri,,123.0,Barry,147.97500,147.375000,FM ,Washburn,,KE0CZQ,+
+Missouri,,100.0,Wayne,147.97500,147.375000,FM ,Piedmont,100.0,K0WCR,+
+Missouri,,156.7,Clay,147.97500,147.375000,FM ,Lawson,156.7,K0ESM,+
+Missouri,,141.3,St Louis City,147.96000,147.360000,FM ,Saint Louis - Mercy,141.3,W0MDG,+
+Missouri,,,Cooper,147.96000,147.360000,FM ,Boonville,,W0BRC,+
+Missouri,,162.2,Stone,147.94500,147.345000,FM ,Kimberling City,162.2,K0EI,+
+Missouri,,110.9,Crawford,147.94500,147.345000,FM ,Cuba,110.9,KD0JOX,+
+Missouri,,110.9,Linn,147.94500,147.345000,FM ,Brookfield,,W0CIT,+
+Missouri,,123.0,Warren,147.93000,147.330000,FM ,Warrenton - MSHP Tower,,WA0EMA,+
+Missouri,,162.2,Greene,147.93000,147.330000,FM ,Walnut Grove,,AK0C,+
+Missouri,,151.4,Platte,147.93000,147.330000,FM Fusion ,Kansas City - NWS Central Region HQ,151.4,WA0QFJ,+
+Missouri,,100.0,Stoddard,147.93000,147.330000,FM ,Bloomfield - MSHP Tower,,KM0HP,+
+Missouri,,127.3,Callaway,147.91500,147.315000,FM ,Millersburg,,KC0MV,+
+Missouri,,,Jackson,147.91500,147.315000,Fusion WIRES-X ,Lee's Summit,,K0HAM,+
+Missouri,,,Benton,147.90000,147.300000,FM ,Warsaw,107.2,KD0CNC,+
+Missouri,,100.0,Iron,147.90000,147.300000,FM ,Viburnum,,KD0KIB,+
+Missouri,,110.9,Iron,147.90000,147.300000,FM ,Viburnum,110.9,N0WNC,+
+Missouri,,,Barry,147.90000,147.300000,FM ,Monett,,K0SQS,+
+Missouri,,141.3,St Louis,147.88500,147.285000,FM ,University City - Washington Univ,,W0QEV,+
+Missouri,,136.5,Greene,147.88500,147.285000,FM ,Springfield - Cox North Hospital,136.5,N0NWS,+
+Missouri,,123.0,Miller,147.87000,147.270000,FM ,Eldon,123.0,N0QVO,+
+Missouri,,156.7,Dent,147.87000,147.270000,FM ,Bunker,CSQ,KD0IM,+
+Missouri,,127.3,Audrain,147.85500,147.255000,FM AllStar ,Mexico - KWWR Backup Tower,127.3,AA0RC,+
+Missouri,,D165,Camden,147.85500,147.255000,FM AllStar EchoLink ,Macks Creek,D165,KA0KDW,+
+Missouri,,162.2,McDonald,147.85500,147.255000,FM ,Jane - Walmart,162.2,N5BVA,+
+Missouri,,141.3,Franklin,147.84000,147.240000,FM ,Washington - Krakow Water Tower,141.3,WA0FYA,+
+Missouri,,162.2,Greene,147.82500,147.225000,FM ,Springfield - Rayfield Comm Tower,162.2,W0PM,+
+Missouri,,CSQ,St Louis City,147.82500,147.225000,FM ,Saint Louis,,N0FLC,+
+Missouri,,94.8,Livingston,147.82500,147.225000,FM ,Chillicothe,94.8,K0MPT,+
+Missouri,,91.5,Bates,147.82500,147.225000,FM ,Butler,91.5,KD0PVP,+
+Missouri,1293,100.0,Scott,147.81000,147.210000,FM DMR EchoLink P-25 Fusion ,Sikeston,100.0,KE0MQF,+
+Missouri,,91.5,Jasper,147.81000,147.210000,FM ,Joplin,91.5,W0IN,+
+Missouri,,141.3,Washington,147.79500,147.195000,FM ,Potosi,,N0WNC,+
+Missouri,,162.2,Taney,147.79500,147.195000,FM AllStar EchoLink ,Branson,162.2,W0TRI,+
+Missouri,,79.7,Franklin,147.78000,147.180000,FM Fusion ,Union - Indian Prairie School,79.7,WA0FYA,+
+Missouri,,136.5,Dallas,147.78000,147.180000,FM ,Buffalo,136.5,N0NWS,+
+Missouri,,162.2,Wright,147.76500,147.165000,FM Fusion ,Norwood,,K0DCA,+
+Missouri,,127.3,Saline,147.76500,147.165000,FM ,Marshall,CSQ,WB0WMM,+
+Missouri,,141.3,St Louis,147.75000,147.150000,FM Fusion ,Kirkwood,141.3,K0ATT,+
+Missouri,,162.2,Taney,147.75000,147.150000,FM ,Forsyth - Water Tower,162.2,W0TRI,+
+Missouri,,100.0,Stoddard,147.75000,147.150000,FM ,Dexter,,N0DAN,+
+Missouri,,91.5,Vernon,147.73500,147.135000,FM ,Nevada,,W0HL,+
+Missouri,,,Gasconade,147.73500,147.135000,FM ,Hermann,,KB0WCY,+
+Missouri,,107.2,Greene,147.72000,147.120000,FM AllStar ,Springfield - CU TRS Glidewell site,107.2,W0AV,+
+Missouri,,151.4,Cass,147.72000,147.120000,FM AllStar EchoLink ,Raymore,151.4,N0HV,+
+Missouri,,,Jefferson,147.70500,147.105000,Fusion WIRES-X ,Imperial,,KB0TLL,+
+Missouri,,156.7,Lafayette,147.70500,147.105000,FM ,Concordia,156.7,KE0PKD,+
+Missouri,,136.5,Taney,147.70500,147.105000,FM ,Branson,136.5,KJ6TQ,+
+Missouri,,162.2,Wright,147.69000,147.090000,FM ,Odin,162.2,KC0ROS,+
+Missouri,,127.3,Randolph,147.69000,147.090000,FM ,Moberly,127.3,K0MOB,+
+Missouri,,,Jackson,147.69000,147.090000,FM EchoLink ,Independence - B of A Independence Square,,W0TOJ,+
+Missouri,4F9,127.3,Benton,147.67500,147.075000,FM AllStar EchoLink P-25 ,Warsaw - MSHP Tower,127.3,K0NXA,+
+Missouri,,100.0,Scott,147.67500,147.075000,FM ,Sikeston,100.0,KB0ZAW,+
+Missouri,,162.2,McDonald,147.67500,147.075000,FM ,Pineville,,WB6ARF,+
+Missouri,,141.3,Jefferson,147.67500,147.075000,FM ,Hillsboro,141.3,KB0TLL,+
+Missouri,,141.3,St Louis,147.66000,147.060000,FM ,Saint Louis - I-270/McDonnell Blvd,,W0MA,+
+Missouri,,94.8,Worth,147.66000,147.060000,FM Fusion ,Grant City,94.8,W0BYU,+
+Missouri,,162.2,Polk,147.66000,147.060000,FM ,Bolivar,162.2,K0NXA,+
+Missouri,,141.3,Warren,147.64500,147.045000,FM ,Warrenton,141.3,KA0CWU,+
+Missouri,,118.8,Lawrence,147.64500,147.045000,FM EchoLink Fusion WIRES-X ,Mount Vernon,118.8,AF0SS,+
+Missouri,,,Clay,147.64500,147.045000,FM ,Kearney,,N0TIX,+
+Missouri,,179.9,Pettis,146.43000,147.030000,FM ,Sedalia,179.9,WA0SDO,-
+Missouri,,100.0,St Francois,147.63000,147.030000,FM EchoLink ,Farmington,100.0,K0EOR,+
+Missouri,,162.2,Greene,147.61500,147.015000,FM AllStar EchoLink ,Springfield - CU TRS Co East Site,162.2,K0NXA,+
+Missouri,,,St Louis,147.61500,147.015000,DSTAR ,Saint Louis - Red Cross,,K0MDG,+
+Missouri,,151.4,Jackson,147.61500,147.015000,FM ,Blue Springs,151.4,KB0VBN,+
+Missouri,,100.0,Jasper,147.60000,147.000000,FM ,Joplin,,WB0IYC,+
+Missouri,,127.3,Cole,146.40000,147.000000,FM ,Jefferson City,127.3,K0ETY,-
+Missouri,,100.0,Stoddard,146.40000,147.000000,FM ,Dexter,100.0,N0GK,-
+Missouri,,110.9,Howell,146.38500,146.985000,FM AllStar EchoLink ,Willow Springs - MSHP Troop G HQ,110.9,K0NXA,-
+Missouri,,100.0,Dunklin,146.38500,146.985000,FM EchoLink Fusion ,Kennett - Kennett Fire Dept Admin Offices,100.0,KB0UFL,-
+Missouri,,110.9,Dent,146.37000,146.970000,FM Fusion ,Salem,110.9,K0GGM,-
+Missouri,,151.4,Jackson,146.37000,146.970000,FM ,Kansas City - Plaza,151.4,W0WJB,-
+Missouri,,162.2,Lawrence,146.37000,146.970000,FM ,Freistatt - MSHP Tower,162.2,W0OAR,-
+Missouri,,156.7,Grundy,146.35500,146.955000,FM AllStar EchoLink ,Trenton - Courthouse,156.7,KB0RPJ,-
+Missouri,,192.8,Morgan,146.35500,146.955000,FM ,Laurie,,KA0RFO,-
+Missouri,,100.0,Iron,146.35500,146.955000,FM ,Arcadia,100.0,KA0CUU,-
+Missouri,,110.9,Howell,146.34000,146.940000,FM ,West Plains,110.9,W0HCA,-
+Missouri,,,Jackson,146.34000,146.940000,Fusion WIRES-X ,Kansas City - Signal Hill,,K0HAM,-
+Missouri,,,St Louis,146.34000,146.940000,Fusion ,Clayton,,W0SRC,-
+Missouri,,107.2,Benton,146.32500,146.925000,FM EchoLink ,Warsaw,,WB0EM,-
+Missouri,,,Clay,146.32500,146.925000,Fusion WIRES-X ,Smithville - Fire Dept,,KC0KW,-
+Missouri,,,New Madrid,146.32500,146.925000,FM ,New Madrid,,KB0UFL,-
+Missouri,,192.8,Jefferson,146.32500,146.925000,FM AllStar EchoLink ,Arnold,192.8,K0AMC,-
+Missouri,,162.2,Greene,146.31000,146.910000,FM EchoLink Fusion ,Springfield - Hammons Tower,162.2,W0EBE,-
+Missouri,,100.0,Butler,146.31000,146.910000,FM ,"Poplar Bluff - MSHP Sta, North 67",100.0,KM0HP,-
+Missouri,,141.3,St Louis,146.31000,146.910000,FM ,Des Peres - West County Mall,,W0SRC,-
+Missouri,,114.8,Clinton,146.29500,146.895000,FM Fusion WIRES-X ,Plattsburg,114.8,KC0QLU,-
+Missouri,,162.2,Taney,146.29500,146.895000,FM AllStar EchoLink ,Hollister - KSMU Tower,162.2,W0YKE,-
+Missouri,,CSQ,Maries,146.29500,146.895000,FM ,Brinktown,,N0GYE,-
+Missouri,,107.2,Johnson,146.28000,146.880000,FM EchoLink Fusion ,Holden,107.2,W0AU,-
+Missouri,,103.5,Marion,146.28000,146.880000,FM ,Hannibal,,W0KEM,-
+Missouri,,91.5,Jasper,146.28000,146.880000,FM ,Carthage,91.5,W0LF,-
+Missouri,,100.0,Carter,146.26500,146.865000,FM EchoLink ,Van Buren,100.0,N0IBV,-
+Missouri,,,Cass,146.26500,146.865000,Fusion WIRES-X ,Peculiar,,KF5E,-
+Missouri,,156.7,Webster,146.26500,146.865000,FM ,Marshfield - Water Tower,156.7,N0WKC,-
+Missouri,34F9,127.3,Cole,146.26500,146.865000,FM DMR DSTAR NXDN P-25 Fusion ,Jefferson City - SEMA Tower,127.3,KB4VSP,-
+Missouri,,100.0,Buchanan,146.25000,146.850000,FM Fusion WIRES-X ,Saint Joseph - KQ2 Tower,100.0,W0NH,-
+Missouri,,114.8,Texas,146.25000,146.850000,FM AllStar EchoLink ,Prescott,,N0OMR,-
+Missouri,,141.3,St Louis,146.25000,146.850000,FM AllStar EchoLink ,Olivette - Lindbergh/Olive,141.3,W0SRC,-
+Missouri,,91.5,Vernon,146.25000,146.850000,FM ,Nevada,91.5,W0HL,-
+Missouri,,100.0,Washington,146.23500,146.835000,FM ,Potosi - Floyd 911 Tower,,AB0TL,-
+Missouri,,127.3,Monroe,146.23500,146.835000,FM ,Paris,,N0SYL,-
+Missouri,,107.2,Hickory,146.23500,146.835000,FM ,Hermitage - Pomme De Terre Lake,107.2,AC0HA,-
+Missouri,,100.0,Bollinger,146.22000,146.820000,FM ,Scopus - KMHM Tower,100.0,W0QMF,-
+Missouri,,110.9,Phelps,146.22000,146.820000,FM AllStar EchoLink ,Rolla - MSHP Troop I HQ,110.9,K0NXA,-
+Missouri,,162.2,Greene,146.22000,146.820000,FM ,Republic,162.2,K0EAR,-
+Missouri,,151.4,Jackson,146.22000,146.820000,FM Fusion ,Kansas City - City Hall,151.4,K0UAA,-
+Missouri,,110.9,Oregon,146.20500,146.805000,FM ,Thayer,,W0WZR,-
+Missouri,,110.9,Franklin,146.20500,146.805000,FM ,Sullivan - West Water Tower,110.9,KC0DBS,-
+Missouri,,127.3,Newton,146.20500,146.805000,FM ,Neosho,127.3,KC0FDQ,-
+Missouri,,156.7,Macon,146.20500,146.805000,FM ,Macon,156.7,N0PR,-
+Missouri,,107.2,Jackson,146.19000,146.790000,FM ,Kansas City,,W0TE,-
+Missouri,656,91.5,Barton,146.19000,146.790000,FM AllStar EchoLink P-25 ,Golden City - MSHP Tower,91.5,K0NXA,-
+Missouri,,88.5,Pulaski,146.19000,146.790000,FM ,Dixon,88.5,W0GS,-
+Missouri,,CSQ,Scott,146.19000,146.790000,FM ,Benton,CSQ,N0GK,-
+Missouri,5,,Christian,146.17500,146.775000,DMR ,Ozark - Verizon Link Tower,,K0NXA,-
+Missouri,,100.0,Jefferson,146.17500,146.775000,FM AllStar EchoLink Fusion ,Festus - Buck Nob,100.0,KD0RIS,-
+Missouri,,141.3,St Louis,146.16000,146.760000,FM ,Shrewsbury,141.3,W9AIU,-
+Missouri,34F9,127.3,Boone,146.16000,146.760000,FM DMR DSTAR NXDN P-25 Fusion ,Columbia,127.3,K0SI,-
+Missouri,,136.5,Wright,146.14500,146.745000,FM ,Macomb,,N0NWS,-
+Missouri,,141.3,Caldwell,146.14500,146.745000,FM Fusion ,Cameron,141.3,WD0BBR,-
+Missouri,,127.3,Morgan,146.13000,146.730000,FM ,Sunrise Beach,127.3,N0ZS,-
+Missouri,,151.4,Jackson,146.13000,146.730000,FM EchoLink Fusion ,Independence - Fire Sta 1,151.4,W0SHQ,-
+Missouri,,141.3,St Louis,146.13000,146.730000,FM ,Bridgeton - SSM de Paul Hospital,,W0KE,-
+Missouri,,100.0,St Francois,146.11500,146.715000,FM ,Park Hills,,AB0HX,-
+Missouri,,,Monroe,146.10000,146.700000,FM ,Monroe City,,KA0EJQ,-
+Missouri,,107.2,Jackson,146.10000,146.700000,FM ,Lee's Summit - James A Reed Wildlife Center,107.2,KC0SKY,-
+Missouri,,141.3,Jefferson,146.10000,146.700000,FM ,Festus,,W0KLX,-
+Missouri,,88.5,Laclede,146.10000,146.700000,FM ,Eldridge,,K0LH,-
+Missouri,5656,,Greene,146.08500,146.685000,DMR DSTAR NXDN P-25 Fusion ,Springfield - Troop D MSHP HQ,,K0NXA,-
+Missouri,,94.8,Nodaway,146.08500,146.685000,FM ,Maryville,CSQ,W0BYU,-
+Missouri,1,127.3,Saline,146.08500,146.685000,FM DMR EchoLink ,Marshall - Fitzgibbon Hospital,127.3,KF0ULO,-
+Missouri,,100.0,Cape Girardeau,146.08500,146.685000,FM EchoLink ,Cape Girardeau - River Radio Transmitter Tower,100.0,W0QMF,-
+Missouri,12455,,Howell,146.07000,146.670000,DMR DSTAR NXDN P-25 Fusion ,Willow Springs - MSHP Troop G HQ,,K0NXA,-
+Missouri,,141.3,St Charles,146.07000,146.670000,FM Fusion ,O'Fallon - Water Tank,141.3,WB0HSI,-
+Missouri,,91.5,Cedar,146.07000,146.670000,FM ,El Dorado Springs - Cedar Springs Tower,91.5,KB8VLL,-
+Missouri,,94.8,Carroll,146.05500,146.655000,FM EchoLink ,Carrollton - East Water Tower,156.7,N0SAX,-
+Missouri,656,91.5,Taney,146.05500,146.655000,FM AllStar EchoLink P-25 ,Branson - Inspiration Tower,91.5,K0NXA,-
+Missouri,,151.4,Clinton,146.04000,146.640000,FM ,Trimble,,WB0YRG,-
+Missouri,,110.9,Crawford,146.04000,146.640000,FM ,Steelville,110.9,KF5QMA,-
+Missouri,,162.2,Greene,146.04000,146.640000,FM ,Springfield - Troop D MSHP HQ,162.2,WX0GCS,-
+Missouri,,100.0,Ste. Genevieve,146.02500,146.625000,FM ,Sainte Genevieve,100.0,K0QOD,-
+Missouri,,151.4,Cass,146.02500,146.625000,FM ,Pleasant Hill,151.4,K0BSJ,-
+Missouri,,103.5,Marion,146.02500,146.625000,FM ,Hannibal,103.5,W0KEM,-
+Missouri,,131.8,Miller,146.02500,146.625000,FM ,Eldon,,AA0NC,-
+Missouri,,100.0,St Louis City,146.01000,146.610000,FM ,Saint Louis - Bates/Virginia,,KC0TPS,-
+Missouri,,127.3,Boone,146.01000,146.610000,FM ,Columbia,,WX0BC,-
+Missouri,2,,St Charles,147.49000,146.490000,DMR ,Defiance,,N0KQG,+
+Missouri,4,,Cass,147.45000,146.450000,DMR Fusion ,Pleasant Hill,,WB0YRG,+
+Missouri,,141.3,Franklin,147.45000,146.450000,FM DSTAR ,Pacific - Signal Hill,141.3,KD0ZEA,+
+Missouri,,141.3,St Charles,144.89000,145.490000,FM ,O'Fallon,141.3,W0ECA,-
+Missouri,,,Jackson,144.89000,145.490000,Fusion WIRES-X ,Kansas City - Royals Stadium,,KC0KW,-
+Missouri,,136.5,Webster,144.89000,145.490000,FM AllStar EchoLink ,Fordland,136.5,N0NWS,-
+Missouri,12,,Laclede,144.87000,145.470000,DMR ,Conway - Water Tower,,K0NXA,-
+Missouri,,110.9,Phelps,144.85000,145.450000,FM ,Rolla - TJ Residence Hall,110.9,W0EEE,-
+Missouri,,91.5,Vernon,144.85000,145.450000,FM ,Nevada,91.5,W0HL,-
+Missouri,,107.2,Greene,144.83000,145.430000,FM ,Springfield,85.4,KA0FKF,-
+Missouri,,,Clay,144.83000,145.430000,FM ,Gladstone - Water Tank,,W0MB,-
+Missouri,,100.0,St Charles,144.81000,145.410000,FM ,O'Fallon - Water Tank,100.0,K0RBR,-
+Missouri,,,Jackson,144.81000,145.410000,Fusion ,Lee's Summit,,,-
+Missouri,,136.5,Taney,144.81000,145.410000,FM ,Branson,136.5,N0NWS,-
+Missouri,,127.3,Osage,144.79000,145.390000,FM ,Linn - MSHP Tower,127.3,K0ETY,-
+Missouri,656,91.5,Newton,144.79000,145.390000,FM AllStar EchoLink P-25 ,Granby - MSHP Tower,91.5,K0NXA,-
+Missouri,,162.2,Webster,144.77000,145.370000,FM Fusion ,Seymour,162.2,K0DCA,-
+Missouri,,,St Charles,144.77000,145.370000,Fusion WIRES-X ,Saint Charles,,KJ0A,-
+Missouri,,151.4,Jackson,144.77000,145.370000,FM EchoLink ,Independence - Centerpoint Med Ctr,,K0EJC,-
+Missouri,,141.3,St Louis,144.75000,145.350000,FM ,Saint Louis - Tilles Park,,N0ARS,-
+Missouri,,100.0,Butler,144.75000,145.350000,FM ,Poplar Bluff - R-1 School Maint Warehouse,,AB0JW,-
+Missouri,,110.9,Linn,144.75000,145.350000,FM ,Marceline,,KD0ETV,-
+Missouri,293,91.5,Jasper,144.75000,145.350000,FM EchoLink P-25 ,Joplin,91.5,N0NWS,-
+Missouri,,136.5,Greene,144.73000,145.330000,FM EchoLink ,Springfield - Cox South Hospital,136.5,N0NWS,-
+Missouri,,141.3,St Charles,144.73000,145.330000,FM ,Saint Charles - Lindenwood College,,KO0A,-
+Missouri,,151.4,Jackson,144.71000,145.310000,FM EchoLink ,Independence - Fire Sta 1,,K0EJC,-
+Missouri,,100.0,Shannon,144.71000,145.310000,FM ,Eminence,100.0,KN0D,-
+Missouri,,127.3,Randolph,144.69000,145.290000,FM ,Renick,127.3,KM0HP,-
+Missouri,5,162.2,Polk,144.69000,145.290000,FM DMR ,Bolivar,162.2,K0NXA,-
+Missouri,,100.0,Iron,144.69000,145.290000,FM AllStar EchoLink ,Arcadia - Taum Sauk Mtn State Park,100.0,K0NXA,-
+Missouri,,123.0,St Louis City,144.67000,145.270000,FM Fusion ,Saint Louis - Busch Stadium,,KA9HNT,-
+Missouri,656,162.2,Christian,144.67000,145.270000,FM AllStar P-25 ,Nixa - Water Tower,162.2,K0NXA,-
+Missouri,,110.9,Howell,144.65000,145.250000,FM AllStar EchoLink ,West Plains,110.9,N0MIC,-
+Missouri,,CSQ,Greene,144.65000,145.250000,FM AllStar ,Springfield - I-44/Hwy 13,,KC0QA,-
+Missouri,,162.2,Christian,144.63000,145.230000,FM ,Highlandville - Water Tower,162.2,K0ZRK,-
+Missouri,,123.0,Wayne,144.63000,145.230000,FM AllStar ,Greenville,123.0,KD0MRV,-
+Missouri,,162.2,Barry,144.61000,145.210000,FM ,Shell Knob - Fire LO Tower,,AC0JK,-
+Missouri,,123.0,St Louis City,144.61000,145.210000,FM EchoLink ,Saint Louis,,WB0QXW,-
+Missouri,,123.0,Webster,144.59000,145.190000,FM ,Seymour - Hwy 60/Route A,123.0,W9IQ,-
+Missouri,,100.0,St Francois,144.59000,145.190000,FM EchoLink ,Park Hills - Frankclay,100.0,N8WIZ,-
+Missouri,4,,Clay,144.59000,145.190000,DMR ,Excelsior Springs,,K0BSJ,-
+Missouri,,,Pike,144.59000,145.190000,FM ,Eolia,,KA0EJQ,-
+Missouri,,91.5,Jasper,144.59000,145.190000,FM ,Carthage,91.5,W0IN,-
+Missouri,,127.3,St Louis City,144.57000,145.170000,FM ,Saint Louis,,K0KYZ,-
+Missouri,,151.4,Jackson,144.57000,145.170000,FM EchoLink ,Raytown - Water Tower,151.4,K0GQ,-
+Missouri,,,Franklin,144.55000,145.150000,FM ,Sullivan,,K0CSM,-
+Missouri,,107.2,Dekalb,144.55000,145.150000,FM ,Osborn,,WD0SKY,-
+Missouri,,162.2,Douglas,144.55000,145.150000,FM Fusion ,Ongo,162.2,K0DCA,-
+Missouri,,100.0,Madison,144.55000,145.150000,FM ,Fredericktown,,N0OZK,-
+Missouri,,88.5,Phelps,144.53000,145.130000,FM ,Rolla - Phelps Health Medical Office Bldg,88.5,W0GS,-
+Missouri,,156.7,Adair,144.53000,145.130000,FM EchoLink ,Kirksville - KTVO Tower,CSQ,W0CBL,-
+Missouri,,,Jackson,144.51000,145.110000,Fusion WIRES-X ,Kansas City,,KC0KW,-
+Missouri,3,,Benton,144.51000,145.110000,DMR ,Cole Camp,,KE0CYW,-
